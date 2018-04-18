@@ -76,3 +76,5 @@ setTimeout(() => {
 // TODO 3.1 Update the user list display from step 2.3 so that it displays buttons, when clicked, draw events will only be dispatched to that user. You will also need to modify the onMove handler from 1.3
 // TODO 3.2 When a user is selected, filter draw events from other users and only display events from the selected user. You will likely need to update the "DRAW_POINTS" listener from 1.4
 // TODO 3.3 Create a button that, when clicked, will send draw events to all users again.
+
+// In here
